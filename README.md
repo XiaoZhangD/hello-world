@@ -1,2 +1,3 @@
 # hello-world
 the project is my first project in github,now I start  my new journey in github.
+hello,my name is xiaozhang,I like eating delicious food .But i am poor now,majority of delicious food is expensive.So i need to fight for goal...
